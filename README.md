@@ -19,7 +19,7 @@ Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
-
+```
 Required packages:
 
 opencv-python
@@ -35,11 +35,10 @@ scikit-image
 tk
 
 reportlab
-
-
-## How to Run
+🚀 How to Run
 ```bash
 python main.py
+```
 🛠️ How It Works
 Paste a YouTube video URL.
 
@@ -47,19 +46,23 @@ Choose:
 
 Frame interval in seconds
 
-Similarity threshold (0-1)
+Similarity threshold (0–1)
 
 Click "🎞️ Extract Slides"
 
 Click "📄 Generate PDF" to save the extracted slides.
 
 📁 Output
-Extracted slides saved as .png in the slides/ directory
+Extracted slides saved as .png files in the slides/ directory
 
 PDF file created at your selected location
 
 📸 Screenshot
+Add a screenshot here if needed.
 
 👨‍💻 Author
 Made with ❤️ by Kunal Chandra
+
+
+
 
